@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # ignore .pem AWS EC2 key file
-stock-predictor-fastapi-nasim2.pem
+#stock-predictor-fastapi-nasim2.pem
