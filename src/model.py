@@ -56,7 +56,6 @@ def convert(prediction_list):
     return output
 
 # comment out for FastAPI app
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Predict')
     parser.add_argument('--ticker', type=str, default='MSFT', help='Stock Ticker')
